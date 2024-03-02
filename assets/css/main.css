@@ -751,6 +751,11 @@ h6 {
   margin: 30px 8px 0 8px;
 }
 
+.gallery .gallery-links .preview-link span,
+.gallery .gallery-links .details-link span{
+  display: none;
+}
+
 .gallery .gallery-links .preview-link:hover,
 .gallery .gallery-links .details-link:hover {
   color: #fff;
